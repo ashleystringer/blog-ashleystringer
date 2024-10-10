@@ -1,0 +1,11 @@
+Option 3
+* Posts page
+    * Search bar 
+    * Posts by Id
+    * Pagination 
+    * Sort by Tags button
+        * Number of entries by tag
+        * Ability to filter out entries by tag
+        * Groups entries by tags
+    * Sort by Date button (default)
+    * Sort by Series button

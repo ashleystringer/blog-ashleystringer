@@ -1,0 +1,34 @@
+{
+    "articles": [
+      {
+        "id": 1,
+        "title": "The Future of Technology?!",
+        "author": "Jane Doe",
+        "datePublished": "2026-01-01",
+        "content": "In this article, we explore the potential future technologies that could shape our world.",
+        "series": "",
+        "tags": ["Technology", "Future"],
+        "dateUpdated": "01-01-2024"
+      },
+      {
+        "id": 2,
+        "title": "Understanding AI???",
+        "author": "John Smith",
+        "datePublished": "2025-02-15",
+        "content": "Artificial Intelligence (AI) is rapidly changing various industries. Here's what you need to know.",
+        "series": "",
+        "tags": ["AI", "Technology"],
+        "dateUpdated": "04-01-2023"
+      },
+      {
+        "id": 3,
+        "title": "The Importance of Cybersecurity!",
+        "author": "Alex Johnson",
+        "datePublished": "2023-03-10",
+        "content": "With the increasing amount of data online, cybersecurity has never been more important. Learn how to protect yourself.",
+        "series": "",
+        "tags": ["Cybersecurity", "Technology"],
+        "dateUpdated": "03-01-2023"
+      }
+    ]
+  }
